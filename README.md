@@ -1,8 +1,15 @@
-# React + Vite
+# Página de Astronomía
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta web fue creada con el fin de mostrar fotografías astronómicas y de paisajes, al hacer click en una imágen la misma se expande para observarla con más en detalle. 
 
-Currently, two official plugins are available:
+Tecnologías: React, Tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Autor: Sofía De Alessandre
+
+Julio 2024
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)

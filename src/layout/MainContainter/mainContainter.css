@@ -1,0 +1,21 @@
+.main_container {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 100px;
+  justify-content: center;
+  height: 100%;
+  padding: 10;
+}
+.title {
+  grid-column: span 3;
+  text-align: center;
+}
+.title:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .main_container {
+    grid-template-columns: repeat(1, auto);
+  }
+}

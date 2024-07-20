@@ -1,0 +1,14 @@
+.slide_item{
+    padding-inline: 10px;
+    display: inline-block;
+    max-width: 300px;
+
+}
+.slide_img{
+    border-radius: 10px;
+    aspect-ratio: 16/9;
+    object-fit: contain;
+    min-height: 200px;
+    padding: 10px;
+
+}

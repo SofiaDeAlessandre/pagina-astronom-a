@@ -8,5 +8,7 @@ Autor: Sofía De Alessandre
 
 Julio 2024
 
-
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
 ![alt text](image-4.png)
